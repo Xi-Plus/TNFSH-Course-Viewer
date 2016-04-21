@@ -3,6 +3,11 @@
 	<meta charset="UTF-8">
 	<title>台南一中課表查詢系統 for UTF-8</title>
 	<meta name=viewport content="width=600, initial-scale=1">
+	<link rel="Shortcut Icon" href="res/icon/60.png">
+	<link rel="apple-touch-icon" href="res/icon/60.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="res/icon/76.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="res/icon/120.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="res/icon/152.png">
 </head>
 <body bgColor="#D0D0D0">
 <center>
