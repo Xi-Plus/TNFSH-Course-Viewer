@@ -41,6 +41,7 @@ else {
 	$html=iconv("BIG5", "UTF-8//IGNORE", $html);
 	$html=preg_replace('/href=".*?_(.*?).html"/','href="?main=$1"',$html);
 }
+$html=str_replace("big5", "UTF-8", $html);
 echo $html;
 ?>
 <hr>
